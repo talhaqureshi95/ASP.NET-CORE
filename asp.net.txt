@@ -1,3 +1,7 @@
 middleware
 Convention Based Routing
 Attribute Routing
+passing data from controller to view
+view data
+view bag
+temp data
